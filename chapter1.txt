@@ -1,1 +1,3 @@
 Hola a todos, Hello everybody
+This is more text for this file.
+I have been testing this git stuff in order to master it.
